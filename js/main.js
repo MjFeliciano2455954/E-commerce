@@ -1,7 +1,7 @@
 // Mock Product Data (Simulated Database)
 const products = [
-  { id: '1', name: 'The Aurelia Dress', price: 50, category: 'Formal', image: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500', desc: 'A timeless silhouette for special occasions.' },
-    { id: '2', name: 'Ethereal Tulle', price: 65, category: 'Mini', image: 'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=500', desc: 'Lightweight and elegant evening dress.' },
+  { id: '1', name: 'The Aurelia Dress', price: 50, category: 'Formal', image: '1.jpeg', desc: 'A timeless silhouette for special occasions.' },
+    { id: '2', name: 'Ethereal Tulle', price: 65, category: 'Mini', image: '2.jpeg', desc: 'Lightweight and elegant evening dress.' },
       { id: '3', name: 'Velvet Nocturne', price: 75, category: 'Maxi', image: 'https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500', desc: 'Deep velvet fabric with sophisticated cut.' },
         { id: '4', name: 'Rose Cocktail', price: 45, category: 'Mini', image: 'https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500', desc: 'Charming outfit for parties and casual events.' }
         ];
